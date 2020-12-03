@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_motion_sensor.png.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_motion_sensor.png"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_motion_sensor.png.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_motion_sensor.png"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/drawable-hdpi_smart_lock.png.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/build/generated/res/pngs/debug/drawable-hdpi/smart_lock.png"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/drawable-ldpi_smart_lock.png.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/build/generated/res/pngs/debug/drawable-ldpi/smart_lock.png"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_motion_sensor.png.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/build/generated/res/pngs/debug/drawable-hdpi/ic_motion_sensor.png"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_smart_lock.xml.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/build/generated/res/pngs/debug/drawable-anydpi-v24/smart_lock.xml"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_motion_sensor.xml.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_motion_sensor.xml"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/layout_activity_gesture.xml.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/src/main/res/layout/activity_gesture.xml"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/drawable-xxhdpi_smart_lock.png.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/build/generated/res/pngs/debug/drawable-xxhdpi/smart_lock.png"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/drawable-mdpi_smart_lock.png.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/build/generated/res/pngs/debug/drawable-mdpi/smart_lock.png"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_motion_sensor.png.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/build/generated/res/pngs/debug/drawable-mdpi/ic_motion_sensor.png"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/layout_activity_temp.xml.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/src/main/res/layout/activity_temp.xml"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/drawable-xhdpi_smart_lock.png.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/build/generated/res/pngs/debug/drawable-xhdpi/smart_lock.png"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_motion_sensor.png.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_motion_sensor.png"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_motion_sensor.png.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/build/generated/res/pngs/debug/drawable-ldpi/ic_motion_sensor.png"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/daryl_222/CS3237/CS3237Project/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_smart_lock.png.flat",
+        "source": "/home/daryl_222/CS3237/CS3237Project/app/build/generated/res/pngs/debug/drawable-xxxhdpi/smart_lock.png"
+    }
+]
